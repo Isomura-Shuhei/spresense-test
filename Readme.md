@@ -1,6 +1,7 @@
 # Sony-Spresenseのテストプログラム
 
-テストプログラムを作成していきます。 
+テストプログラムを作成していきます。
+現在Lチカ。 
  
 # Requirement
 * Visual Studio code
